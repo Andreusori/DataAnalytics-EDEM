@@ -8,6 +8,6 @@ Bienvenido al repositorio de
 
 **
 
-Actualmente estoy cursado el ***Master de Data Analytics en EDEM***
+Actualmente estoy cursado el ***Master de Data Analytics*** en
 
 ![enter image description here](https://www.lamarinadevalencia.com/mreal/uploaded/EdemLogo.jpg)
